@@ -72,8 +72,19 @@ Created an impactful and insightful dashboard using Power BI that:
 - Visualizes sales performance across different dimensions.
 - Helps stakeholders make data-driven decisions.
 - Showcases strong dashboard design and storytelling.
-![WhatsApp Image 2025-04-22 at 7 14 51 PM](https://github.com/user-attachments/assets/6544f678-11ea-4f48-96c3-eef1ba09c1fa)
+  
 ![image](https://github.com/user-attachments/assets/14d730a6-c9ba-4505-aab4-dd78d7d25adc)
+![image](https://github.com/user-attachments/assets/aa09dd52-c22a-4bef-8d12-c93e69a82a51)
+![image](https://github.com/user-attachments/assets/9f0cb5bc-2fa6-42ce-9115-db9459d67629)
+![image](https://github.com/user-attachments/assets/ce302c39-24e0-49fb-a82a-4b0a7916668f)
+![image](https://github.com/user-attachments/assets/01977f63-61cc-4b35-9a31-fcf59d41f4aa)
+![image](https://github.com/user-attachments/assets/1f3a1a30-d5b8-4a8b-93a2-e2979b181d82)
+
+![WhatsApp Image 2025-04-22 at 7 14 51 PM](https://github.com/user-attachments/assets/6544f678-11ea-4f48-96c3-eef1ba09c1fa)
+
+
+
+
 
 
 ---
