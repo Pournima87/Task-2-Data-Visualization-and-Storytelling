@@ -50,28 +50,36 @@ To analyze the **Retail Superstore dataset** using **Power BI**, uncover key ins
 
 ---
 
-### 💡 Recommendations
-- Focus discount campaigns on **Technology products in Q2/Q4**.
-- Reevaluate discount strategy for **Office Supplies**.
-- Use **targeted seasonal promotions** for best results.
-- Conduct **A/B testing** for discount optimization across categories.
+## 🗂️ Project Structure
+
+| File | Description |
+|------|-------------|
+| `TASK 02.pbix` | Power BI dashboard file with 6 interactive pages |
+| `Task 2 Data Visualization and Storytelling Documentation.pdf` | Detailed documentation with analysis |
+| `Retail Sales Dashboard.pdf` | Dashboard view with summary |
+| `Sample - Superstore.csv` | Raw dataset used in the analysis |
 
 ---
 
-## 📎 Deliverables
-- 💻 **Power BI Dashboard** (6 Pages)
-- 📝 Summary Slide with business insights
-- ✅ Cleaned and structured dataset
-- 📄 Final PDF Report for Submission
-- 📘 This README file
+## 📋 How to Use
+
+1. Download or clone the repo.
+2. Open `TASK 02.pbix` using **Power BI Desktop**.
+3. Explore the interactive pages and use filters to dive into insights.
+4. Read the `Documentation.pdf` for the full analysis.
 
 ---
+
 
 ## 🚀 Outcome
 Created an impactful and insightful dashboard using Power BI that:
 - Visualizes sales performance across different dimensions.
 - Helps stakeholders make data-driven decisions.
 - Showcases strong dashboard design and storytelling.
+
+---
+
+## 🖥️ Dashboard Preview
   
 ![image](https://github.com/user-attachments/assets/14d730a6-c9ba-4505-aab4-dd78d7d25adc)
 ![image](https://github.com/user-attachments/assets/aa09dd52-c22a-4bef-8d12-c93e69a82a51)
