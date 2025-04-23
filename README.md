@@ -73,6 +73,8 @@ Created an impactful and insightful dashboard using Power BI that:
 - Helps stakeholders make data-driven decisions.
 - Showcases strong dashboard design and storytelling.
 ![WhatsApp Image 2025-04-22 at 7 14 51 PM](https://github.com/user-attachments/assets/6544f678-11ea-4f48-96c3-eef1ba09c1fa)
+![image](https://github.com/user-attachments/assets/14d730a6-c9ba-4505-aab4-dd78d7d25adc)
+
 
 ---
 
